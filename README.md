@@ -1,9 +1,9 @@
 # ESP32 Reaction Game
 
 ## Overview
-An interactive color reaction game developed as a final-year university project using an ESP32 microcontroller and MicroPython.
+An interactive color reaction game designed and developed for a university exhibition during my final year of BSc Computer Science at the University of Cape Coast.
 
-The game challenges players to identify and touch the correct color within a limited time.
+The game challenges players to identify and touch the correct color within a limited time using an ESP32-based interactive system.
 
 ## Features
 - Three RGB LED color indicators: Red, Green, and Blue.
