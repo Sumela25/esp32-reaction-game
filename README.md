@@ -9,6 +9,10 @@ The game challenges players to identify and touch the correct color within a lim
 
 ![ESP32 Reaction Game Prototype](game-prototype.jpg)
 
+## Gameplay Demonstration
+
+[Watch the ESP32 Reaction Game demonstration](game-demonstration.MP4)
+
 ## Features
 - Three RGB LED color indicators: Red, Green, and Blue.
 - Randomized color selection.
