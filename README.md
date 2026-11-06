@@ -5,6 +5,10 @@ An interactive color reaction game designed and developed for a university exhib
 
 The game challenges players to identify and touch the correct color within a limited time using an ESP32-based interactive system.
 
+## Project Prototype
+
+![ESP32 Reaction Game Prototype](game-prototype.jpg)
+
 ## Features
 - Three RGB LED color indicators: Red, Green, and Blue.
 - Randomized color selection.
