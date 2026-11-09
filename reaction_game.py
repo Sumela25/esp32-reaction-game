@@ -8,7 +8,6 @@ from machine_i2c_lcd import I2cLcd
 np_red = neopixel.NeoPixel(Pin(5), 16)
 np_green = neopixel.NeoPixel(Pin(18), 16)
 np_blue = neopixel.NeoPixel(Pin(19), 16)
-
 # === Buzzer ===
 buzzer = PWM(Pin(25), freq=1000, duty=0)
 
